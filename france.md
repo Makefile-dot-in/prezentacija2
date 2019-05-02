@@ -3,8 +3,12 @@
 <style>
 .small {
   font-size: 19px;
-} 
+}
 </style>
+
+<script>
+document.getElementsByClassName("dontcenter").forEach(e => e.style.top = 0)
+</script>
 
 ### Autori: Kārlis Gustavs Ārītis, Mārtiņš Bode, Patriks Jānis Pudāns, Arts Stuberovskis
 
@@ -67,6 +71,7 @@
 # Reljefs
 
 * Augstākā virsotne: Monblāns (4808,7 m)
+* Zemākais punkts: Ronas upes delta (2 m zjl.)
 
 ::: notes
 * Augstākā virsotne: Monblāns (4808 m vjl.).
@@ -76,7 +81,7 @@
 * Zemākais punkts: Ronas upes delta (2 m zjl.)
 :::
 
-//# Monblāns {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mont-Blanc_from_Planpraz_station.jpg/1200px-Mont-Blanc_from_Planpraz_station.jpg"}
+# Monblāns {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mont-Blanc_from_Planpraz_station.jpg/1200px-Mont-Blanc_from_Planpraz_station.jpg"}
 
 # Ūdeņi
 
