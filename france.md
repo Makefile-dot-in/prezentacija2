@@ -7,7 +7,9 @@
 </style>
 
 <script>
-document.getElementsByClassName("dontcenter").forEach(e => e.style.top = 0)
+let slides = Array.from(document.getElementsByClassName("dontcenter"))
+slides["data-state"] = "dontcenter"
+Reveal.addEventListener("dontcenter", () => Array.from(document.getElementsByClassName("dontcenter")).forEach(e => e.style.top = 0))
 </script>
 
 ### Autori: Kārlis Gustavs Ārītis, Mārtiņš Bode, Patriks Jānis Pudāns, Arts Stuberovskis
