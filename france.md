@@ -16,7 +16,7 @@ Reveal.addEventListener("dontcenter", () => Array.from(document.getElementsByCla
 
 ::: {.small}
 * Galvaspilsēta: Parīze
-* Platība: 640,679 km^2
+* Platība: 640,679 km²
 * Moto: "Liberté, égalité, fraternité" ("Brīvība, vienlīdzība, brālība")
 * Laika zona: GMT+1 (Centrāleiropas laiks) ziemā, GMT+2 (Centrāleiropas vasaras laiks) vasarā; aizjūras teritorijās arī citas
 * Valūta: eiro (EUR), aizjūras teritorijās Klusajā okeānā CFP franks (XPF; 1000 XPF = 8,38 EUR)
@@ -88,15 +88,24 @@ Reveal.addEventListener("dontcenter", () => Array.from(document.getElementsByCla
 # Loira {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/LoireAChamptoceaux.jpg/1024px-LoireAChamptoceaux.jpg"}
 
 ::: notes
-Garākā upe Francijā, 171. garākā pasaulē, 1012 km gara
+Garākā upe Francijā, 171. garākā pasaulē, 1012 km gara. Vidējā caurtece - 863 m³/s
+:::
+
+# Rona {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Leman_img_0573.jpg/673px-Leman_img_0573.jpg"}
+
+::: notes
+Lielākā upe Francijā, viena no lielākajām Eiropā, 813 km gara, vidējā caurtece - 1710 m³/s
 :::
 
 # Ženēvas ezers {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/14/Genfersee_satellit.jpg"}
 
 ::: notes
-Lielākais un dziļākais ezers Francijā - 580 km^2
+Lielākais un dziļākais ezers Francijā - 580 km² plats, dziļākajā vietā 310 m dziļš
+:::
 
 # Klimata joslas
+
+
 
 # Temperatūra
 
