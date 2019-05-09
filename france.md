@@ -44,7 +44,7 @@ Reveal.addEventListener("dontcenter", () => Array.from(document.getElementsByCla
 * 19.gs. Napoleons pārņēma varu un izveidoja 1. Francijas impēriju. Viņš arī karoja ar vairākām valstīm un izveidoja Kontinentālo blokādi
 * Pēc impērijas sabrukuma valdības mainījās vairākas reizes un beidzās ar 3. Francijas republikas izveidi 1870.g.
 * Francija bija viena no galvenajiem Antantes locekļiem 1. pasaules karā, kurā tā uzvarēja.
-* 2. pasaules karā Francija cīnījās sabiedroto pusē.
+* 2\. pasaules karā Francija cīnījās sabiedroto pusē.
 * 1940.g. to okupēja Ass spēki, bet 1944.g. to atbrīvoja un nodibināja 4. republiku.
 * Alžīrijas kara rezultātā 1958.g. 4. republika izjuka un tika nodibināta 5. republika.
 :::
@@ -105,9 +105,26 @@ Lielākais un dziļākais ezers Francijā - 580 km² plats, dziļākajā vietā 
 
 # Klimata joslas
 
+![Francijas klimata joslas](https://about-france.com/photos/france-climate-map.jpg){height=500px}\
 
+::: notes
+[tālāk seko piezīmes]
+
+Attēlā redzama Francijas klimata joslu karte. Kreisajā vidējā malā sākas apzīmējumi angļu valodā zem uzraksta "KEY". To tulkojumi latviski:
+* Okeānisks
+* Pusokeānisks
+* Kalnu
+* Kontinentālais
+* Vidusjūras
+:::
 
 # Temperatūra
+
+![Temperatūra](https://images.climate-data.org/location/44/climate-graph.png){width=500px}\
+
+::: notes
+Temperatūra Francijā ir vidēji silta. Nokrišņi daudz. Vidējā temperatūra - 11,3 °C. 
+:::
 
 # Dabas zonas
 
