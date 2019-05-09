@@ -12,9 +12,7 @@ slides["data-state"] = "dontcenter"
 Reveal.addEventListener("dontcenter", () => Array.from(document.getElementsByClassName("dontcenter")).forEach(e => e.style.top = 0))
 </script>
 
-### Autori: Kārlis Gustavs Ārītis, Mārtiņš Bode, Patriks Jānis Pudāns, Arts Stuberovskis
-
-# Vispārīgas ziņas ![](https://upload.wikimedia.org/wikipedia/commons/a/a3/EU-France.svg){width=120px}
+### Autori: Kārlis Gustavs Ārītis, Mārtiņš Bode, Patriks Jānis Pudāns, Arts Stuberovskis# Vispārīgas ziņas ![](https://upload.wikimedia.org/wikipedia/commons/a/a3/EU-France.svg){width=120px}
 
 ::: {.small}
 * Galvaspilsēta: Parīze
@@ -86,6 +84,17 @@ Reveal.addEventListener("dontcenter", () => Array.from(document.getElementsByCla
 # Monblāns {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mont-Blanc_from_Planpraz_station.jpg/1200px-Mont-Blanc_from_Planpraz_station.jpg"}
 
 # Ūdeņi
+
+# Loira {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/LoireAChamptoceaux.jpg/1024px-LoireAChamptoceaux.jpg"}
+
+::: notes
+Garākā upe Francijā, 171. garākā pasaulē, 1012 km gara
+:::
+
+# Ženēvas ezers {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/14/Genfersee_satellit.jpg"}
+
+::: notes
+Lielākais un dziļākais ezers Francijā - 580 km^2
 
 # Klimata joslas
 
