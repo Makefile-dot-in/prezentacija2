@@ -347,6 +347,14 @@ Kruasāns ir sviestains, kārtains konditorejas izstrādājums. Tas ir bieži sa
 
 ---
 
+![Bagete](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Baguettes_-_stonesoup.jpg/681px-Baguettes_-_stonesoup.jpg){height=550px}
+
+::: notes
+Bagete ir gara, tieva franču maize, kas veidota no mīklas, kas definēta Francijas likumā. Tā ir atpazīstama pēc sava garuma un kraukšķīgās garozas. Bagetes parasti ir apmēram 5 vai 6 centimetrus diametrā un 65 centrimetrus garas, lai gan var arī būt līdz pat 1 m garas bagetes.
+:::
+
+---
+
 ![*Croque monsieur*](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Croque_monsieur.jpg/1280px-Croque_monsieur.jpg){height=550px}
 
 ::: notes
