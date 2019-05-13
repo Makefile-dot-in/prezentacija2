@@ -6,12 +6,6 @@
 }
 </style>
 
-<script>
-let slides = Array.from(document.getElementsByClassName("dontcenter"))
-slides["data-state"] = "dontcenter"
-Reveal.addEventListener("dontcenter", () => Array.from(document.getElementsByClassName("dontcenter")).forEach(e => e.style.top = 0))
-</script>
-
 ### Autori: Kārlis Gustavs Ārītis, Mārtiņš Bode, Patriks Jānis Pudāns, Arts Stuberovskis# Vispārīgas ziņas ![](https://upload.wikimedia.org/wikipedia/commons/a/a3/EU-France.svg){width=120px}
 
 ::: {.small}
@@ -81,23 +75,31 @@ Reveal.addEventListener("dontcenter", () => Array.from(document.getElementsByCla
 * Zemākais punkts: Ronas upes delta (2 m zjl.)
 :::
 
-# Monblāns {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mont-Blanc_from_Planpraz_station.jpg/1200px-Mont-Blanc_from_Planpraz_station.jpg"}
+---
+
+![Monblāns](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mont-Blanc_from_Planpraz_station.jpg/1200px-Mont-Blanc_from_Planpraz_station.jpg){height=550px}
 
 # Ūdeņi
 
-# Loira {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/LoireAChamptoceaux.jpg/1024px-LoireAChamptoceaux.jpg"}
+---
+
+![Loira](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/LoireAChamptoceaux.jpg/1024px-LoireAChamptoceaux.jpg){height=550px}
 
 ::: notes
 Garākā upe Francijā, 171. garākā pasaulē, 1012 km gara. Vidējā caurtece - 863 m³/s
 :::
 
-# Rona {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Leman_img_0573.jpg/673px-Leman_img_0573.jpg"}
+---
+
+![Rona](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Leman_img_0573.jpg/673px-Leman_img_0573.jpg){height=550px}
 
 ::: notes
 Lielākā upe Francijā, viena no lielākajām Eiropā, 813 km gara, vidējā caurtece - 1710 m³/s
 :::
 
-# Ženēvas ezers {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/14/Genfersee_satellit.jpg"}
+---
+
+![Ženēvas ezers](https://upload.wikimedia.org/wikipedia/commons/1/14/Genfersee_satellit.jpg){height=550px}
 
 ::: notes
 Lielākais un dziļākais ezers Francijā - 580 km² plats, dziļākajā vietā 310 m dziļš
@@ -151,19 +153,43 @@ Temperatūra Francijā ir vidēji silta. Nokrišņi daudz. Vidējā temperatūra
 
 # Dzīvnieki
 
-# Plankumainais ronis {.dontcenter data-background-image="https://www.worldatlas.com/r/w728-h425-c728x425/upload/01/38/14/shutterstock-613479389.jpg"}
+# Plankumainais ronis 
 
-# Stirna {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Capreolus_capreolus_2_Jojo.jpg/1200px-Capreolus_capreolus_2_Jojo.jpg"}
+![Plankumainais ronis](https://www.worldatlas.com/r/w728-h425-c728x425/upload/01/38/14/shutterstock-613479389.jpg){height=550px}
 
-# Alpu murkšķis {.dontcenter data-background-image="https://www.worldatlas.com/r/w728-h425-c728x425/upload/45/a4/5a/shutterstock-796645771.jpg"}
+# Stirna 
 
-# Aizsargājamie dzīnieki
+![Stirna](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Capreolus_capreolus_2_Jojo.jpg/1200px-Capreolus_capreolus_2_Jojo.jpg){height=550px}
 
-# Alpu cirslis {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/e0/Sorex_alpinus-cropped.jpg"}
+---
 
-# Audouina kaija {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ichthyaetus_audouinii.jpg/1200px-Ichthyaetus_audouinii.jpg"}
+![Alpu murkšķis](https://www.worldatlas.com/r/w728-h425-c728x425/upload/45/a4/5a/shutterstock-796645771.jpg){height=550px}
 
-# Jūras velns {.dontcenter data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/01/Squatina_squatina_tenerife.jpg"}
+::: notes
+Alpu murkšķis ir murkšķu suga, kas dzīvo starp 800 un 3200 metriem v.j.l. Alpos, Karpatos, Tatros, Pirenejos un Apenīnos. Tie ir lieliski racēji un var pārkost augsni, kuru ir grūti pārcirst pat ar cirtni. Viņi 9 mēnešus gadā pavada ziemas miegā.
+:::
+
+# Aizsargājamie dzīvnieki
+
+---
+
+![Alpu cirslis](https://upload.wikimedia.org/wikipedia/commons/e/e0/Sorex_alpinus-cropped.jpg){height=550px}
+
+::: notes
+Alpu cirslis ir cirslis, kas atšķiras no parastā ciršļa ar tumšku kažoku un garāku asti. Tas var labi kāpt, izmantojot savu asti balansam. Tam ir augsta vielmaiņa un vajag bieži ēst. Tas ēd kukaiņus, zirnekļus, gliemežus un zemes tārpus, un ir lapsu, sermuļu, mājas kaķu un meža pūču medījums.
+:::
+
+---
+
+![Audouina kaija](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ichthyaetus_audouinii.jpg/1200px-Ichthyaetus_audouinii.jpg){height=550px}
+
+---
+
+![Jūras velns](https://upload.wikimedia.org/wikipedia/commons/0/01/Squatina_squatina_tenerife.jpg){height=550px}
+
+::: notes
+Jūras velns, mūkzivs jeb eņģeļhaizivs ir haizivju suga. Tā ir labi pielāgojusies, lai nomaskētu sevi uz jūras fona un tai ir saplacināta forma ar lielām krūšu spurām un vēdera spurām, kas piešķir tai līdzību rajām. Tas nav agresīvs pret cilvēkiem, lai gan var spēcīgi iekost, ja to traucē. Kad tam tuvojas zem ūdens, jūras velns parasti paliek nekustīgs vai aizpeld, lai gan ir arī redzēts kāds, kurš riņķoja nirēju ar atvērtu muti. Cilvēki to ir ēduši tūkstošiem gadu - sengrieķu autori kā Difils un Mnesitejs to aprakstījuši kā "vieglu" un "viegli norijamu".
+:::
 
 
 # Augi
@@ -172,19 +198,23 @@ Temperatūra Francijā ir vidēji silta. Nokrišņi daudz. Vidējā temperatūra
 
 ![Sibīrijas skalbe](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sibirische_Schwertlilie%2C_Iris_sibirica_06.JPG/600px-Sibirische_Schwertlilie%2C_Iris_sibirica_06.JPG){height=550px}
 
+::: notes
+Daudzgadīgs, vidējs vai liels īrisu dzimtas lakstaugs. Parasti aug grupās. Sttublājs stāvs, vienkāršs, kails. Lapas šauras, lineāras, pie stublāja pamata. Zied maijā, jūnijā. Ļoti dekoratīvs augs.
+:::
+
 ---
 
 ![Dzejnieku narcise](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Narcissus_poeticus_%27Recurvus%2706.jpg/768px-Narcissus_poeticus_%27Recurvus%2706.jpg){height=550px}
 
 ---
 
-![Ēdamā kastaņa](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Chestnuts.jpg/1105px-Chestnuts.jpg){width=550px}
+![Ēdamā kastaņa](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Chestnuts.jpg/1105px-Chestnuts.jpg){height=550px}
 
 # Svarīgākie objekti
 
 ---
 
-![Eifeļa tornis](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/615px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg){width=550px}
+![Eifeļa tornis](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/615px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg){height=550px}
 
 ::: notes
 Eifeļa tornis tika uzbūvēts no 1887.g. līdz 1889.g. Tas ir nosaukts inženiera Gustava Eifeļa, kura kompānija izstrādāja un uzbūvēja torni, vārdā, ir 324 metrus, un to gadā apmeklē apmēram 7 miljoni cilvēku.
@@ -376,4 +406,28 @@ Montsenmišela ir sala un pamatzemes komūna, kas atrodas 1 km no valsts ziemeļ
 
 ::: notes
 Parīze ir pasaules slavenākā tūristu apskates vieta ar 45 miljoniem gadā. Tā ir Francijas galvaspilsēta. Tajā ir daudzas pasaulē pazīstamas vietas, kā Eifeļa tornis, Triumfa arka, Parīzes Dievmātes katedrāle un Luvra.
+:::
+
+---
+
+![Parīzes Disnejlenda](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Disneyland_Paris_Fantasyland_Panorama.jpg/1280px-Disneyland_Paris_Fantasyland_Panorama.jpg){height=550px}
+
+::: notes
+Parīzes Disnejlenda ir izklaides vieta Marnlavalē. Tajā ir 2 atrakciju parki, daudzas viesnīcas, *Disney Nature Resorts*, tirdzniecības un ēšanas komplekss un golfa laukums, kā arī citas izklaides vietas.
+:::
+
+---
+
+![Elizejas lauki](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg/1200px-Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg){height=550px}
+
+::: notes
+Elizejas lauki (franču: Avenue des Champs-Élysées, izruna: Æva-nü de šaz~e-li-ze, kur Æ ir šaurais e,  ü izrunā kā vācu valodā, - atdala zilbes un ~ nozīmē, ka tiek izlaista pauze starp vārdiem) ir avēnija Parīzē, kas iet no Konkordijas laukuma līdz Šarla de Gaulla laukumam. Tā ir pazīstama ar saviem teātriem, kafejnīcām un veikaliem, dēļ 14. jūlija militārās parādes, kā arī kā *Tour de France* finiša vieta.
+:::
+
+---
+
+![Parīzes katakombas](https://upload.wikimedia.org/wikipedia/commons/d/d6/Catacombs-700px.jpg){height=550px}
+
+::: notes
+Parīzes katakombas ir pazemes katakombas Parīzē, kas tur vairāk nekā 6 miljonus mirstīgo atlieku. Tās atrodas uz dienvidiem no Elles vārtiem - kādreizējiem pilsētas vārtiem. Katakombas 19.gs. sākumā kļuva par vietu koncertiem un citiem privātiem pasākumiem. Pēc dažām renovācijām un ieeju uzbūves ap Denferta-Rošereau laukumu, tās tika atvērtas publikai 1874. gadā. Kopš 2013. gada tās ir vienas no 14 Parīzes pilsētas muzejiem, kurus pārvalda Paris Musées (izruna: Pa-ri mü-ze).
 :::
