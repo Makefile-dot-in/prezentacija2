@@ -6,7 +6,9 @@
 }
 </style>
 
-### Autori: Kārlis Gustavs Ārītis, Mārtiņš Bode, Patriks Jānis Pudāns, Arts Stuberovskis# Vispārīgas ziņas ![](https://upload.wikimedia.org/wikipedia/commons/a/a3/EU-France.svg){width=120px}
+### Autori: Kārlis Gustavs Ārītis, Mārtiņš Bode, Patriks Jānis Pudāns, Arts Stuberovskis
+
+# Vispārīgas ziņas ![](https://upload.wikimedia.org/wikipedia/commons/a/a3/EU-France.svg){width=120px}
 
 ::: {.small}
 * Galvaspilsēta: Parīze
@@ -153,11 +155,11 @@ Temperatūra Francijā ir vidēji silta. Nokrišņi daudz. Vidējā temperatūra
 
 # Dzīvnieki
 
-# Plankumainais ronis 
+---
 
 ![Plankumainais ronis](https://www.worldatlas.com/r/w728-h425-c728x425/upload/01/38/14/shutterstock-613479389.jpg){height=550px}
 
-# Stirna 
+---
 
 ![Stirna](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Capreolus_capreolus_2_Jojo.jpg/1200px-Capreolus_capreolus_2_Jojo.jpg){height=550px}
 
@@ -418,7 +420,7 @@ Parīze ir pasaules slavenākā tūristu apskates vieta ar 45 miljoniem gadā. T
 
 ---
 
-![Parīzes Disnejlenda](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Disneyland_Paris_Fantasyland_Panorama.jpg/1280px-Disneyland_Paris_Fantasyland_Panorama.jpg){height=550px}
+![Parīzes Disnejlenda](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Disneyland_Paris_Fantasyland_Panorama.jpg/1280px-Disneyland_Paris_Fantasyland_Panorama.jpg){height=209px}
 
 ::: notes
 Parīzes Disnejlenda ir izklaides vieta Marnlavalē. Tajā ir 2 atrakciju parki, daudzas viesnīcas, *Disney Nature Resorts*, tirdzniecības un ēšanas komplekss un golfa laukums, kā arī citas izklaides vietas.
@@ -439,3 +441,9 @@ Elizejas lauki (franču: Avenue des Champs-Élysées, izruna: Æva-nü de šaz~e
 ::: notes
 Parīzes katakombas ir pazemes katakombas Parīzē, kas tur vairāk nekā 6 miljonus mirstīgo atlieku. Tās atrodas uz dienvidiem no Elles vārtiem - kādreizējiem pilsētas vārtiem. Katakombas 19.gs. sākumā kļuva par vietu koncertiem un citiem privātiem pasākumiem. Pēc dažām renovācijām un ieeju uzbūves ap Denferta-Rošereau laukumu, tās tika atvērtas publikai 1874. gadā. Kopš 2013. gada tās ir vienas no 14 Parīzes pilsētas muzejiem, kurus pārvalda Paris Musées (izruna: Pa-ri mü-ze).
 :::
+
+# Atsauces
+
+1. https://en.wikipedia.org
+
+# Paldies par uzmanību!
